@@ -1,5 +1,5 @@
 # Calculator
-###Author: Koelber Kevin
+### Author: Koelber Kevin
 
-##Content
+## Content
 This project is a dummy system for my students in Java.
