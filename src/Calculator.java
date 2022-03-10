@@ -1,9 +1,7 @@
+import java.util.Arrays;
+
 public class Calculator {
     public static int sum(int... numbers){
-        int sum = 0;
-        for(int number : numbers){
-            sum += number;
-        }
-        return sum;
+        return Arrays.stream(numbers).sum();
     }
 }
